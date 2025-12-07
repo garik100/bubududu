@@ -2,3 +2,5 @@
 bubududu
 bubu
 dudu
+fana
+gana
